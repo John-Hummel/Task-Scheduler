@@ -1,0 +1,19 @@
+[2025-04-25 08:57:00,715] INFO - Started config file watcher daemon.
+[2025-04-25 08:57:00,716] INFO - Scheduler loop started
+[2025-04-25 08:57:00,717] INFO - Started filesystem watcher on tasks directory
+[2025-04-25 08:57:00,717] INFO - Scheduler and watcher daemons started.
+[2025-04-25 08:57:55,765] INFO - Task saved: test
+[2025-04-25 08:58:00,744] INFO - Notification sent for reminder: test
+[2025-04-25 08:58:00,745] INFO - Task deleted: test
+[2025-04-25 09:30:32,045] INFO - Started config file watcher daemon.
+[2025-04-25 09:30:32,046] INFO - Scheduler loop started
+[2025-04-25 09:30:32,047] INFO - Started filesystem watcher on tasks directory
+[2025-04-25 09:30:32,048] INFO - Scheduler and watcher daemons started.
+[2025-04-25 09:31:13,229] INFO - Task saved: test
+[2025-04-25 09:34:45,338] INFO - Started config file watcher daemon.
+[2025-04-25 09:34:45,339] INFO - Scheduler loop started
+[2025-04-25 09:34:45,339] INFO - Started filesystem watcher on tasks directory
+[2025-04-25 09:34:45,339] INFO - Scheduler and watcher daemons started.
+[2025-04-25 09:35:04,901] INFO - Task saved: test
+[2025-04-25 09:35:05,370] INFO - Notification sent for reminder: test
+[2025-04-25 09:35:05,371] INFO - Task deleted: test
